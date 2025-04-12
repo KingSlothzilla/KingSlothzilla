@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KingSlothzilla
 - 👀 I’m interested in Gaming/Programming
 - 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate with beginners like myself
+- 📫 How to reach me kingslothzilla@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sloths only poo once per week.
 
